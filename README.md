@@ -1,4 +1,4 @@
-### My name is Nhan Ngo and I'm a full stack developer
+### My name is Nhan Ngo and I'm a developer
 
 - 🔭 I’m currently working on ... things
 - 🌱 I’m currently learning ... nothing
